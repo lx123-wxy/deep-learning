@@ -1,6 +1,5 @@
 from torch.utils import data
 from torch import nn
-import random
 import torch
 from d2l import torch as d2l
 
